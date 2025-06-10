@@ -16,7 +16,7 @@ Tôi là sinh viên UTC.
 
 
 * 🧑‍🎓 Học DTVT-Chuyên ngành điện tử công nghiệp.
-* 🌱 Tôi hiện đang học C, C++, Altium,IOT.
+* 🌱 Tôi hiện đang học C, C++, Altium, IOT.
 * 💬 Hãy hỏi tôi về STM32, ESP32, IOT Platform, PCB layout.
 * 📫 Cách liên hệ với tôi: baonguyenk63utc@gmail.com
 
