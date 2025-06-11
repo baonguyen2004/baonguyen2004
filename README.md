@@ -28,3 +28,7 @@
 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/><a href="https://www.altium.com/altium-designer" target="_blank" rel="noreferrer"><img src="altium-designer.png" width="40" height="40"/><a href="https://www.st.com/en/development-tools/stm32cubemx.html" target="_blank" rel="noreferrer"><img src="en.STM32CubeMX.avif" alt="mx.png" width="40" height="40"/><a href="https://www2.keil.com/mdk5" target="_blank" rel="noreferrer"><img src="keilc.jpg" width="40" height="40"/><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="Arduino_IDE_logo.svg.png" width="40" height="40"/>
 </p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baonguyen2004&layout=compact&theme=default" />
+</p>
