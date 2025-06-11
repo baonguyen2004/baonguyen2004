@@ -12,11 +12,10 @@
 <a href="https://www.reddit.com/user/Inner-Walk-8041/" target="blank"><img align="center" src="redittt.png" alt="40" height="40" /></a>
 
 
-Tôi là sinh viên UTC.
-
+### Tôi là sinh viên UTC :
 
 * 🧑‍🎓 Học DTVT-Chuyên ngành điện tử công nghiệp.
-* 🌱 Tôi hiện đang học C, C++, Altium, IOT.
+* 🌱 Tôi hiện đang học C, Altium, IOT.
 * 💬 Hãy hỏi tôi về STM32, ESP32, IOT Platform, PCB layout.
 * 📫 Cách liên hệ với tôi: baonguyenk63utc@gmail.com
 
